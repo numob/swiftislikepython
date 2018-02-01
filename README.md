@@ -1,3 +1,3 @@
-http://leverich.github.io/swiftislikescala/
+https://numob.github.io/swiftislikepython/
 
-Source-code comparison of Swift and Scala.
+Source-code comparison of Swift4 and Python3.
