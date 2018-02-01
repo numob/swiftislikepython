@@ -7,7 +7,7 @@
 code[class*="language-"],
 pre[class*="language-"] {
 	color: inherit;
-	font-family: "proxima-nova", "Helvetica Neue", Helvetica, arial, sans-serif;
+	font-family: "Helvetica Neue", Helvetica, arial, sans-serif, "proxima-nova";
 	direction: ltr;
 	text-align: left;
 	white-space: pre;
